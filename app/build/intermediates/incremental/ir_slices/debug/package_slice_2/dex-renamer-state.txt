@@ -1,0 +1,4 @@
+#Sun Apr 14 17:01:36 SGT 2019
+base.0=C\:\\Users\\StarmanW\\Desktop\\WalkMyAndroidPlaces-Solution\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
